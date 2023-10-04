@@ -1,7 +1,7 @@
 # Projeto 12
 # Projeto Rusty Bargain - Previsão de Preços de Carros Usados
 
-![car]([https://images.unsplash.com/photo-1560807707-8cc77767d783](https://www.google.com/url?sa=i&url=https%3A%2F%2Fnewsrondonia.com.br%2Fnoticias%2F2023%2F02%2F24%2Fipva-do-carro-aumentando-entenda%2F&psig=AOvVaw0BJJHZNo1BVXeE_-jC3RtD&ust=1696540086119000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCYhrum3YEDFQAAAAAdAAAAABAE))
+![car]([[https://images.unsplash.com/photo-1560807707-8cc77767d783](https://www.google.com/url?sa=i&url=https%3A%2F%2Fnewsrondonia.com.br%2Fnoticias%2F2023%2F02%2F24%2Fipva-do-carro-aumentando-entenda%2F&psig=AOvVaw0BJJHZNo1BVXeE_-jC3RtD&ust=1696540086119000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCYhrum3YEDFQAAAAAdAAAAABAE)](https://novo.newsrondonia.com.br/wp-content/uploads/2023/05/06fc3d518298d549c3f1680c813a9a9b-1.jpg))
 
 O serviço de vendas de carros usados Rusty Bargain está desenvolvendo um aplicativo para atrair novos clientes. Nesse aplicativo, os usuários podem descobrir rapidamente o valor de mercado de seus carros usados. O objetivo deste projeto é construir um modelo de aprendizado de máquina que determine o valor dos carros com base em dados históricos, especificações técnicas, versões de acabamento e preços.
 
